@@ -4,3 +4,6 @@ print("Hi all, I'm Clooney " + a)
 print("Hi all, I'm Clooney" + a)
 print("Hellou")
 print("Cigi")
+
+
+print(1+2)
