@@ -2,3 +2,4 @@ CTRL SHIFT A
 CTRl K - první øádek s cestou zadat levým a pak Rollback a  tím øíkám, že to nechci comitovat
 CTRL F5 - pustí program znova
 CTRL ALT L - automotaicky zformatuje kod python
+CTRL SHIFT K - dìlá commit
