@@ -1,9 +1,7 @@
 a = 0
-print("Hi all, I'm Clooney " + a)
+text = "toto je text ktery s vypisuje"
 
-print("Hi all, I'm Clooney" + a)
-print("Hellou")
-print("Cigi")
-
-
-print(1+2)
+for b in range(len(text)):
+    if b == 3:
+        raise Exception("error")
+    print(text[b])
